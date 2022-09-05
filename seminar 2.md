@@ -34,3 +34,7 @@
 
 ## Удаление веток
 Для удаления ветки ввести команду "*git branch -d '***name branch***'"*
+
+[Дополнительные инструкци](https://github.com/cyberspacedk/Git-commands)
+
+![Logo](https://avatars.mds.yandex.net/i?id=46569cf772289102036c57be6cb221d7-5179998-images-thumbs&n=13
